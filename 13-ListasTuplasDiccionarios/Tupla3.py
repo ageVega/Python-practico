@@ -1,0 +1,5 @@
+tupla = (1,2,3,4,5,6,7,8,9)
+print(tupla)
+print(tupla[4:9])
+print(tupla[:3])
+print(tupla[2:])

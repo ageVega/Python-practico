@@ -1,0 +1,8 @@
+numero1 = float(input("Primer número: "))
+numero2 = float(input("Segundo número: "))
+numero3 = float(input("Tercer número: "))
+numero4 = float(input("Cuarto número: "))
+numero5 = float(input("Quinto número: "))
+numero6 = float(input("Sexto número: "))
+resultado = (numero5 + (numero3*(numero1**numero6)))-(numero4//numero2)
+print("Resultado: ", resultado)
